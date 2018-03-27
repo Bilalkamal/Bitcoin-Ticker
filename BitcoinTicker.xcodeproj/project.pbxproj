@@ -65,12 +65,12 @@
 		63A618271C53C381007AF001 /* BitcoinTicker */ = {
 			isa = PBXGroup;
 			children = (
-				9CEACAB3206AAFEB006FC066 /* Screenshots */,
 				63A618281C53C381007AF001 /* AppDelegate.swift */,
 				63A6182A1C53C381007AF001 /* ViewController.swift */,
 				63A6182C1C53C381007AF001 /* Main.storyboard */,
 				63A618341C53C381007AF001 /* Info.plist */,
 				9C4273D22067E6BC00CA661B /* Assets.xcassets */,
+				9CEACAB3206AAFEB006FC066 /* Screenshots */,
 			);
 			path = BitcoinTicker;
 			sourceTree = "<group>";
